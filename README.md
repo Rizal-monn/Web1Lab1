@@ -3,4 +3,4 @@
 
 ###  Membuat Paragraf
 
-![Gambar 1](Screenshot1.png)
+![Gambar 1](screenshot/Screenshot1.png)
