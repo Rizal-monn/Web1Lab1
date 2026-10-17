@@ -5,8 +5,15 @@
 
 ### Membuat Repository:
 ![Gambar 1](screenshot/Screenshot1.png)
-![Gambar 1](screenshot\Screenshot 2026-10-17 131633.png)
-![Gambar 1](screenshot\Screenshot 2026-10-17 131633.png)
+![Gambar 1](screenshot\Gambar2(1).png)
+![Gambar 1](screenshot\Gambar2(2).png)
+![Gambar 1](screenshot\Gambar2(3).png)
+![Gambar 1](screenshot\Gambar2(4).png)
+![Gambar 1](screenshot\Gambar2(5).png)
+![Gambar 1](screenshot\Gambar2(6).png)
+![Gambar 1](screenshot\Gambar2(7).png)
+![Gambar 1](screenshot\Gambar2(8).png)
+
 
 1. Apa fungsi deklarasi <-!DOCTYPE html> pada dokumen HTML?
 Jawaban:
