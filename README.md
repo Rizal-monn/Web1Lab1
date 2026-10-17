@@ -5,7 +5,7 @@
 
 ### Membuat Repository:
 ![Gambar 1](screenshot/Screenshot1.png)
-![Gambar 1](https://drive.google.com/file/d/1WFlZwvYPFevWCtxjWeaCThBG38lDDNKK/view?usp=drive_link)
+![Gambar 1](https:https://lh3.googleusercontent.com/d/1WFlZwvYPFevWCtxjWeaCThBG38lDDNKK)
 
 1. Apa fungsi deklarasi <-!DOCTYPE html> pada dokumen HTML?
 Jawaban:
