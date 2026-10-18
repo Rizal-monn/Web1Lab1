@@ -5,14 +5,14 @@
 
 ### Membuat Repository:
 ![Gambar 1](screenshot/Screenshot1.png)
-![Gambar 1](screenshot\ssl1.png)
-![Gambar 1](screenshot\Gambar2(2).png)
-![Gambar 1](screenshot\Gambar2(3).png)
-![Gambar 1](screenshot\Gambar2(4).png)
-![Gambar 1](screenshot\Gambar2(5).png)
-![Gambar 1](screenshot\Gambar2(6).png)
-![Gambar 1](screenshot\Gambar2(7).png)
-![Gambar 1](screenshot\Gambar2(8).png)
+![Gambar 2](screenshot/ssl1.png)
+![Gambar 3](screenshot/ssl2.png)
+![Gambar 4](screenshot/ssl3.png)
+![Gambar 5](screenshot/ssl4.png)
+![Gambar 6](screenshot/ssl5.png)
+![Gambar 7](screenshot/ssl6.png)
+![Gambar 8](screenshot/ssl7.png)
+![Gambar 9](screenshot/ssl8.png)
 
 
 1. Apa fungsi deklarasi <-!DOCTYPE html> pada dokumen HTML?
