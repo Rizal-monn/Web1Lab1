@@ -5,7 +5,7 @@
 
 ### Membuat Repository:
 ![Gambar 1](screenshot/Screenshot1.png)
-![Gambar 1](screenshot\Gambar2(1).png)
+![Gambar 1](screenshot\ssl1.png)
 ![Gambar 1](screenshot\Gambar2(2).png)
 ![Gambar 1](screenshot\Gambar2(3).png)
 ![Gambar 1](screenshot\Gambar2(4).png)
